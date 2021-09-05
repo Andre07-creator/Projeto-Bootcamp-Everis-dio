@@ -33,7 +33,7 @@ namespace CadastroSeriesBootcamp.Models
 			return SerieList.Count;
 		}
 
-		public Series RetornaById(int id)
+		public Series ReturnById(int id)
 		{
 			return SerieList[id];
 		}

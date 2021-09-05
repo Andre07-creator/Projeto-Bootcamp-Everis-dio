@@ -1,0 +1,5 @@
+O que é este projeto ?
+	- É um projeto de cadastro de series e filmes que tem como objetivo implementar o CRUD
+	- Ele usa conceitos como o de classes abstratas que será a classe que irá definir o 	  	  Id,elas não podem ser instanciadas.
+	- Utiliza tambem o conceito de interface onde é definido metodos que devem ser 	           implemntados pelas classes que se relaciona com elas.
+	- e e utiliza Enums para ter maior organização no que deve ser listado como os 	  generos das series e filmes	  
